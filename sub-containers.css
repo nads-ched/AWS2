@@ -1,0 +1,12 @@
+.sub-container {box-shadow: 0px 10px 35px rgba(0,0,0,0.1);padding: 50px;
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				margin: 20px auto;
+				flex-wrap: wrap;
+				text-align: center;}
+#container-left {background-color: #420039de;justify-content: left;}
+#container-left h3{padding-left: 50px;}
+#container-right {background-color: #B48EAE;justify-content: right;}
+#container-right h3{flex-grow: 1;}
+

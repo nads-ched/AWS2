@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@300&family=Piedra&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/sub-containers.css");
+
+body {font-family: "Lato"; font-size: 18px;text-align: justify;}
+h1 {font-family: "Anton";
+    font-size: 130px;
+    letter-spacing: 5px;
+    font-variant: all-small-caps;
+    -webkit-text-emphasis-style: dot;
+    text-align: center;}
+h2 {font-family: "Lato"; font-style: italic; font-size: 50px;text-align: center;}
+h3{font-family: 'Lato'; font-size: 40px;font-variant: all-small-caps;color:#E8EBF7;}
+h4 {font-family: "Anton";color:#E8EBF7;letter-spacing: 3px;font-variant: all-small-caps;font-size: 30px;}
+p {color: #E8EBF7;}
+ul{display: inline-flex; list-style: none;justify-content: space-between;padding: 5px;}
+
